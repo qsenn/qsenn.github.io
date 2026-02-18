@@ -5,6 +5,7 @@ layout: home-page
 
 <ol class="post-card-box clearfix">
   {% for post in paginator.posts %}
+  {% if post.is_series_main %}
   {% include remove_double_slash.html %}
   <li>
     <div class="post-card">
