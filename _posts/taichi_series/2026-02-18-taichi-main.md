@@ -3,7 +3,6 @@ layout: post
 title: "Dive into Taichi"
 img: taichi-main.jpg
 is_series_main: true
-permalink: /taichi/main
 ---
 
 ## 📚 Post Series
